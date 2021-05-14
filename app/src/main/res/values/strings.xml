@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Greco\'sApp</string>
+    <string name="logo">Logo</string>
+    <string name="name">Name</string>
+    <string name="image">Image</string>
+    <string name="change_image">Change Image</string>
+    <string name="password">Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="username">Username</string>
+    <string name="change_username">Change Username</string>
+    <string name="email">Email</string>
+    <string name="new_email">New Email</string>
+    <string name="change_email">Change Email</string>
+    <string name="new_password">New Password</string>
+    <string name="credits">Computer Science at the Department of Computer Science and Mathematics, Unical university.</string>
+    <string name="GitHub">GitHub Account</string>
+    <string name="WebSite">Personal WebSite</string>
+    <string name="ShareThanks">Hi there, do you want to share our app? Thanks for support! :D</string>
+    <string name="RateTitle">Rate</string>
+    <string name="RateDescription">Here you can release a rate from 1 to 5 on what do you think about this app.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="shareButton">Share</string>
+    <string name="whois_ip">With this app you can know every time your public address IP! Click on the button to get it :)</string>
+    <string name="Whois_IP">Get My IP</string>
+    <string name="temp_ip">xxx.xxx.xxx.xxx</string>
+    <string name="vpn_check">Click on "Check VPN" to check if your connection is protected by VPN</string>
+    <string name="Check_VPN">Check VPN</string>
+    <string name="no_data">No data available...</string>
+    <string name="proxy_check">Click on "Check Proxy" to check if your connection is protected by Proxy</string>
+    <string name="Check_Proxy">Check Proxy</string>
+    <string name="tor_check">Click on "Check Tor" to check if your connection is protected by Tor</string>
+    <string name="Check_Tor">Check Tor</string>
+    <string name="isp_check">Click on "Get ISP" to see what is your ISP provider detected!</string>
+    <string name="Get_ISP">Get ISP</string>
+    <string name="blacklist_check">Click on "Check Blacklist" to check if your IP is detected on some IP Blacklist</string>
+    <string name="Check_Blacklist">Check Blacklist</string>
+
+    <string name="check_bot">Click on "Check BOT" to check if your connection was detected like a BOT!</string>
+    <string name="Check_BOT">Check BOT</string>
+
+    <string name="google_maps_key">API-KEY</string>
+</resources>

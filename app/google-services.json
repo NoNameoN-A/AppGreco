@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076024259181",
+    "project_id": "greco-sapp",
+    "storage_bucket": "greco-sapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076024259181:android:7173b3de6d9ec50ee2c564",
+        "android_client_info": {
+          "package_name": "com.example.grecosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076024259181-4d6aktdfhk1g4m52qk9779c1vkts2rmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt_ZalHRDH5X5DJ2iDptnesA6-Yx7geGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076024259181-4d6aktdfhk1g4m52qk9779c1vkts2rmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
