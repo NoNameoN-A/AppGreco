@@ -1,6 +1,6 @@
 # GrecoApp
-Applicazione creata al fine del superamento dell'esame di Programmazione di Dispositivi Mobili.
-L'app consiste nell'utilizzo di 2 API le quali forniscono informazioni riguardanti l'indirizzo IP
+Applicazione creata al fine del superamento dell'esame di Programmazione di Dispositivi Mobili.</br>
+L'app consiste nell'utilizzo di 2 API le quali forniscono informazioni riguardanti l'indirizzo IP.</br>
 **Per vedere i video è necessario cliccare sulle immagini**
 
 # API Usate
